@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @zachmshort
+- 👀 I’m interested in math, web development, editing, jiu-jitsu, and lifting. 
+- 🌱 I’m currently learning build full-stack web applications. 
+- 📫 How to reach me
+    - email: zms@ezhomesteading.com
+    - phone: 757-615-5959
