@@ -1,5 +1,5 @@
 - Hi, my name is Zachary Short.
-- I’m interested in math, web development, editing, jiu-jitsu, and lifting.
+- I’m interested in math, web development, video editing, 3d modeling/animation, jiu-jitsu, and lifting.
 - Education History
     - Norfolk Christian High School (August 2017 - May 2021)
     - Virginia Military Institute (August 2021 - May 2023)
