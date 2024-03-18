@@ -5,7 +5,6 @@
     - Virginia Military Institute (August 2021 - May 2023)
     - University of Oxford (June 2023 - August 2023)
     - University of Denver (November 2023 - February 2024)
-- I’m currently learning to build full-stack web applications. 
 - How to reach me
     - email: zms@ezhomesteading.com
     - phone: 757-615-5959
