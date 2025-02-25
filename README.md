@@ -7,5 +7,5 @@
     - University of Denver (November 2023 - February 2024)
     - College of William & Mary (August 2024 - May 2026)
 - How to reach me
-    - email: zms@ezhomesteading.com
+    - email: zach.short@fantomworks.com
     - phone: 757-615-5959
