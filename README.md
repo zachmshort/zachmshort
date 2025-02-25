@@ -1,11 +1,1 @@
-- Hi, my name is Zachary Short.
-- I’m interested in math, web development, video editing, 3d modeling/animation, jiu-jitsu, and lifting.
-- Education History
-    - Norfolk Christian High School (August 2017 - May 2021)
-    - Virginia Military Institute (August 2021 - May 2023)
-    - University of Oxford (June 2023 - August 2023)
-    - University of Denver (November 2023 - February 2024)
-    - College of William & Mary (August 2024 - May 2026)
-- How to reach me
-    - email: zach.short@fantomworks.com
-    - phone: 757-615-5959
+go enthusiast, i use vim btw
