@@ -1,1 +1,1 @@
-go enthusiast, i use vim btw
+i use vim btw
